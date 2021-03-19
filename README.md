@@ -1,4 +1,4 @@
-# DotFiles
+# dotfiles
 goofy's dotfiles for varying applications
 
 Use of any of these or any of the code within the files are licensed under the GNU GPLv3 license.

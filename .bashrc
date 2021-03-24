@@ -3,6 +3,9 @@
 #autocd, allows you to cd into directory by typing only the name
 shopt -s autocd
 
+#diables ctrl-s and ctrl-q in the terminal
+stty -ixon
+
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
